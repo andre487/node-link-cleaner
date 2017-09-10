@@ -1,0 +1,28 @@
+{
+  "name": "link-cleaner",
+  "version": "1.0.0",
+  "description": "Remove garbage params from url (like utm_source)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andre487/node-link-cleaner.git"
+  },
+  "keywords": [
+    "utm_source",
+    "utm_medium",
+    "utm_campaign"
+  ],
+  "author": "andre487",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andre487/node-link-cleaner/issues"
+  },
+  "homepage": "https://github.com/andre487/node-link-cleaner#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.2"
+  }
+}
