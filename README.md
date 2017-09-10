@@ -2,6 +2,8 @@
 
 Remove garbage params from url (like utm_source)
 
+[![Build Status](https://travis-ci.org/andre487/node-link-cleaner.svg?branch=master)](https://travis-ci.org/andre487/node-link-cleaner)
+
 ```
 npm install --save link-cleaner
 ```
