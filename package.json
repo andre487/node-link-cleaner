@@ -1,6 +1,6 @@
 {
   "name": "link-cleaner",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Remove garbage params from url (like utm_source)",
   "main": "index.js",
   "scripts": {
